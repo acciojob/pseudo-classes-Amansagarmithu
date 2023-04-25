@@ -1,1 +1,26 @@
 /*  your css code here. If applicable */
+body{
+	background-color:skyblue;
+}
+.first_para{
+	background-color:black;
+}
+.para{
+	color:white;
+}
+.red_color{
+	color:red;
+}
+.list_items{
+	background-color:white;
+	margin-right:50%;
+	border:0.1px solid white;
+}
+.two>div{
+	background-color:rgb(111,129,144);
+	border:0.1px solid rgb(111,129,144);
+}
+.three>div{
+	background-color:pink;
+	border:0.1px solid pink;
+}
